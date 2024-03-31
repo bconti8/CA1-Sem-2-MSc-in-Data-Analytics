@@ -11,3 +11,6 @@ Research Objectives:
 To explore efficient methods for storing and processing large volumes of email and text data.
 To evaluate and compare the effectiveness of different neural network models (ANN, CNN, RNN) in analyzing text data.
 To apply these models to real-world datasets to assess their practical applicability and performance.
+
+Dataset zip file - https://www.cs.cmu.edu/~enron/enron_mail_20150507.tar.gz
+Dataset License - https://www.cs.cmu.edu/~enron/
