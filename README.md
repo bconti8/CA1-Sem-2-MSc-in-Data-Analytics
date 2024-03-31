@@ -1,5 +1,4 @@
-Overview:
-This research focuses on analyzing vast amounts of email and text data using advanced computing techniques known as neural networks. With the rise of Big Data, managing and understanding this data has become crucial. Technologies such as Hadoop and PySpark play a significant role in handling the data, while neural networks are employed to extract meaningful insights from the text.
+This research focuses on analyzing vast amounts of email and text data (1.4gb) using advanced computing techniques known as neural networks. With the rise of Big Data, managing and understanding this data has become crucial. Technologies such as Hadoop and PySpark play a significant role in handling the data, while neural networks are employed to extract meaningful insights from the text.
 
 Key Technologies:
 
