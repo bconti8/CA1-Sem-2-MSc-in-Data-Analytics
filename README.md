@@ -1,11 +1,13 @@
-This project is part of the evaluation for earning a Master's degree in Data Analytics. It involves research for the second semester continuous assessment project, focusing on a topic that combines advanced data analytics, specifically Neural Networks, and Big Data Storage & Processing.
+Overview:
+This research focuses on analyzing vast amounts of email and text data using advanced computing techniques known as neural networks. With the rise of Big Data, managing and understanding this data has become crucial. Technologies such as Hadoop and PySpark play a significant role in handling the data, while neural networks are employed to extract meaningful insights from the text.
 
-The goals include:
+Key Technologies:
 
-Analyzing the needs for storing and managing data in modern projects and comparing with older methods.
-Understanding the design and structure of distributed Big Data systems and their components.
-Choosing the best Big Data environment for accessing and processing data sets, managing data, and selecting the right analysis algorithms for the project's size and speed requirements.
-For Advanced Data Analytics, the objectives are to:
+Hadoop: An open-source framework that allows for distributed storage and processing of large data sets across clusters of computers.
+PySpark: A large-scale data processing engine that enhances data analysis and integration with Hadoop.
+Neural Networks: Computational models, namely Artificial Neural Networks (ANNs), Convolutional Neural Networks (CNNs), and Recurrent Neural Networks (RNNs), designed to recognize patterns and analyze text data.
+Research Objectives:
 
-Discuss the theories and uses of different neural networks.
-Evaluate the project's requirements to decide on the best Neural Network solution, explaining and supporting this decision with insights gained.
+To explore efficient methods for storing and processing large volumes of email and text data.
+To evaluate and compare the effectiveness of different neural network models (ANN, CNN, RNN) in analyzing text data.
+To apply these models to real-world datasets to assess their practical applicability and performance.
